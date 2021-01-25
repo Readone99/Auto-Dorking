@@ -10,3 +10,4 @@ pkg install bash
 pip install -r requirements.txt
 ls
 cd Auto-Dorking
+Auto Dorking.py
